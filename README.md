@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on [job-finder](https://github.com/iboraham/job-finder)
 
-- 👨‍💻 All of my projects are available at [iboraham.github.io](iboraham.github.io)
+- 👨‍💻 All of my projects are available at [iboraham.github.io](www.iboraham.github.io)
 
 - 💬 Ask me about **Machine learning**
 
 - 📫 How to reach me **ionurserbetci@gmail.com**
 
-- 📄 Know about my experiences [iboraham.github.io/resume](iboraham.github.io/resume)
+- 📄 Know about my experiences [iboraham.github.io/resume](www.iboraham.github.io/resume)
 
 - ⚡ Fun fact **cmd+T -> "tw" -> Enter -> Why I am here -> cmd+W**
 
