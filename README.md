@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [job-finder](https://github.com/iboraham/job-finder)
 
-- 👨‍💻 All of my projects are available at [www.iboraham.github.com](www.iboraham.github.com)
+- 👨‍💻 All of my projects are available at [iboraham.github.io](iboraham.github.io)
 
 - 💬 Ask me about **Machine learning**
 
