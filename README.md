@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ionurserbetci@gmail.com**
 
-- 📄 Know about my experiences [www.iboraham.github.com/resume](www.iboraham.github.com/resume)
+- 📄 Know about my experiences [iboraham.github.io/resume](iboraham.github.io/resume)
 
 - ⚡ Fun fact **cmd+T -> "tw" -> Enter -> Why I am here -> cmd+W**
 
