@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [ab-test](https://github.com/iboraham/ab-test)
 
-- 🌱 I’m currently learning **R shiny, Scala**
+- 🌱 I’m currently learning **Flask, GCP**
 
 - 👯 I’m looking to collaborate on [job-finder](https://github.com/iboraham/job-finder)
 
 - 👨‍💻 All of my projects are available at [iboraham.github.io](www.iboraham.github.io)
 
-- 💬 Ask me about **Machine learning**
+- 💬 Ask me about **AI and Machine learning**
 
 - 📫 How to reach me **ionurserbetci@gmail.com**
 
