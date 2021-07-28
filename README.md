@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iboraham" target="blank"><img src="https://img.shields.io/twitter/follow/iboraham?logo=twitter&style=for-the-badge" alt="iboraham" /></a> </p>
 
-- 🔭 I’m currently working on [ab-test](https://github.com/iboraham/ab-test)
+- 🔭 I’m currently working on [online_changepoint_detector](https://github.com/iboraham/online_changepoint_detector)
 
 - 🌱 I’m currently learning **Flask, GCP**
 
