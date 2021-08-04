@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [online_changepoint_detector](https://github.com/iboraham/online_changepoint_detector)
 
-- 🌱 I’m currently learning **Flask, GCP**
+- 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on [job-finder](https://github.com/iboraham/job-finder)
+- 👯 I’m looking to collaborate on anything including [job-finder](https://github.com/iboraham/job-finder)
 
-- 👨‍💻 All of my projects are available at [iboraham.github.io](www.iboraham.github.io)
+- 👨‍💻 All of my projects will be available at [iboraham.github.io](www.iboraham.github.io)
 
 - 💬 Ask me about **AI and Machine learning**
 
