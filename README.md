@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [online_changepoint_detector](https://github.com/iboraham/online_changepoint_detector)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js, C++**
 
 - 👯 I’m looking to collaborate on anything including [job-finder](https://github.com/iboraham/job-finder)
 
 - 👨‍💻 All of my projects will be available at [iboraham.github.io](www.iboraham.github.io)
 
-- 💬 Ask me about **AI and Machine learning**
+- 💬 Ask me about **Machine learning**
 
 - 📫 How to reach me **ionurserbetci@gmail.com**
 
