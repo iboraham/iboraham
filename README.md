@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/iboraham" target="blank"><img src="https://img.shields.io/twitter/follow/iboraham?logo=twitter&style=for-the-badge" alt="iboraham" /></a> </p>
 
-- 🔭 I’m currently working on [online_changepoint_detector](https://github.com/iboraham/online_changepoint_detector)
+- 🔭 I’m currently working on [stock exchange prediction](https://github.com/iboraham/stock-exchange-prediction) for [JPX Tokyo](https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction)
 
-- 🌱 I’m currently learning **React.js, C++**
+- 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on anything including [job-finder](https://github.com/iboraham/job-finder)
+- 👯 I’m looking to collaborate on anything! 😸
 
 - 👨‍💻 All of my projects will be available at [iboraham.github.io](www.iboraham.github.io)
 
-- 💬 Ask me about **Machine learning**
+- 💬 Ask me about **Machine learning & Data Science**
 
 - 📫 How to reach me **ionurserbetci@gmail.com**
 
-- 📄 Know about my experiences [iboraham.github.io/resume](www.iboraham.github.io/resume)
+- 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/ionur-serbetci/) page.
 
 - ⚡ Fun fact **cmd+T -> "tw" -> Enter -> Why I am here -> cmd+W**
 
